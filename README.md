@@ -2,6 +2,10 @@
 
 Skill auttaa agenttia hakemaan ja lukemaan [Velkajärjestely.fi:n](https://xn--velkajrjestely-bib.fi/) tietopankin ohjeita ja artikkeleita MCP-palvelun kautta. Tiedot haetaan käyttöhetkellä ja vastauksiin liitetään lähdelinkit.
 
+## MCP-palvelun käyttöehdot
+
+Yksityishenkilö voi käyttää MCP-yhteyttä maksutta henkilökohtaisiin tarkoituksiinsa. Yritykset, yhteisöt ja muut kuin yksityishenkilöt tarvitsevat palvelun käyttöön kaupallisen sopimuksen Sendanorin kanssa. Sopimus tarvitaan myös, kun yrittäjä käyttää yhteyttä elinkeinotoiminnassaan tai kaupallinen toimija liittää sen omaan tuotteeseensa tai palveluunsa. Yhteyden käyttö ei vaadi kirjautumista, mutta se ei poista sopimuksen tarvetta. Lisätiedot ja yhteystiedot: [Velkajärjestely.fi:n käyttöehdot](https://xn--velkajrjestely-bib.fi/kayttoehdot).
+
 ## Asenna skill
 
 Lataa [versio 1.0.0 (ZIP)](dist/velkajarjestely-1.0.0.zip). ZIP sisältää `velkajarjestely`-kansion, jonka sisällä on `SKILL.md`.
@@ -30,4 +34,4 @@ Muissa Claude-sovelluksissa lisää etäpalvelin sovelluksen MCP-liittimien aset
 
 ## Lisenssi
 
-Skillin tiedostot ovat [MIT-lisensoituja](LICENSE). Lisenssi ei määritä Velkajärjestely.fi:n artikkeleiden tai muiden sivustosisältöjen käyttöoikeuksia; ne käsitellään erikseen.
+Skillin tiedostot ovat [MIT-lisensoituja](LICENSE). Lisenssi ei määritä MCP-palvelun tai sivustosisältöjen käyttöoikeuksia; niitä koskevat Velkajärjestely.fi:n käyttöehdot.
